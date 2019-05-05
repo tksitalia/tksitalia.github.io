@@ -121,22 +121,28 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      # author_profile: true
       read_time: true
-      comments: true
+      # comments: true
       share: true
       related: true
+      sidebar:
+        - title: ""
+          image: *logo
   # blog
   - scope:
       path: ""
       type: blog
     values:
       layout: single
-      author_profile: true
+      # author_profile: true
       read_time: true
-      comments: true
+      # comments: true
       share: true
       related: true
+      sidebar:
+        - title: ""
+          image: *logo
   # _pages
   - scope:
       path: "_pages"
