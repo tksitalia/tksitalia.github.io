@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Chi Siamo"
+    url: /info/
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "Galleria"
     url: /tags/
-  - title: "About"
+  - title: "Contatti"
     url: /about/

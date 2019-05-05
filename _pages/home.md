@@ -32,7 +32,7 @@ feature_row:
 ---
 **Notizie**
 * Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI
-* La T.K.S.Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3 classificata.
+* La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3 classificata.
 
 {% include feature_row id="intro" type="center" %}
 
