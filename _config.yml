@@ -1,38 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Theme Settings
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-locale: "it-IT"
-title: "T.K.S. Italia"
+# Site Settings
+url: https://www.tksitalia.it
+title: &title "T.K.S. Italia"
+name: &name "Traditional Karate School Italia"
+logo: &logo "/assets/images/logo-tksitalia.png"
 title_separator: "-"
-email:
 description: >-
   Traditional Karate School Italia
-url: https://www.tksitalia.it
-logo: "/assets/images/logo-tksitalia.png"
-twitter_username: username
+locale: "it-IT"
 github_username: tksitalia
-minimal_mistakes_skin: air
 search: true
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /posts/page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /posts/page:num/
 timezone: Europe/Rome
 
 # Conversion
@@ -42,6 +27,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Markdown Processing
+markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
@@ -99,8 +85,8 @@ analytics:
     tracking_id: "UA-139599918-1"
 
 author:
-  name   : "Traditional Karate School Italia"
-  avatar : "/assets/images/logo-tksitalia.png"
+  name   : *name
+  avatar : *logo
   bio    : ""
   links:
     - label: "Website"
