@@ -24,7 +24,7 @@ feature_row:
     alt: "Stage WKAEDA Rimini"
     title: "1° Campionato Nazionale WKAEDA"
     excerpt: "La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3° classificata."
-    url: "/blog/wkaeda-rimini"
+    url: "/blog/1-wkaeda-rimini"
 # github:
 #   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 # intro:
