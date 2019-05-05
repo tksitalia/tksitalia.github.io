@@ -10,29 +10,26 @@ header:
   #caption: "Traditional Karate School Italia"
 excerpt: "L'associazione di Karate nata dalla visione del<br /> Maestro Costantini Fabrizio C.Nera 6° Dan."
 feature_row:
-  - image_path: /assets/images/2019-06-29-pescasseroli.jpg
-    alt: "katadoryu camp"
-    title: "2° Katadoryu Camp"
-    excerpt: "Pescasseroli (AQ) 30 maggio - 2 giugno 2019"
-    url: "/posts/"
-  - image_path: /assets/images/2019-05-24-bushi.jpg
+  - image_path: /images/stage-esterni/2019-06-29-pescasseroli.jpg
+    alt: "Katadoryu camp"
+    title: "2° Katadoryu Camp <br /> Pescasseroli (AQ)"
+    excerpt: "Saremo presenti dal 30 Maggio al 2 Giugno; ben 4 aree all'aperto, 3 aree tatami, più di 100 ore di lezione con ottimi docenti e tanti ragazzi a Pescasseroli (AQ)"
+    url: "/blog/2-katadoryu-camp"
+  - image_path: /images/stage-esterni/2019-05-24-bushi.jpg
     alt: "Invito al BUDO"
-    title: "IV Seminario di Primavera"
-    excerpt: "Invito al BUDO 25-26 Maggio 2019 Bushi MORLUPO"
-    url: "/posts/"
-  - image_path: /assets/images/2019-04-26-rimini.jpg
+    title: "Invito al BUDO <br /> IV Seminario di Primavera"
+    excerpt: "Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI"
+    url: "/blog/iv-seminario-bushi"
+  - image_path: /images/stage-esterni/2019-04-26-rimini.jpg
     alt: "Stage WKAEDA Rimini"
     title: "1° Campionato Nazionale WKAEDA"
-    excerpt: "Rimini 25-28 Aprile 2019"
-    url: "/posts/"
+    excerpt: "La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3° classificata."
+    url: "/blog/wkaeda-rimini"
 # github:
 #   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 # intro:
 #   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
-**Notizie**
-* Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI
-* La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3 classificata.
 
 {% include feature_row id="intro" type="center" %}
 
