@@ -1,0 +1,13 @@
+current directory: /Users/sebi/Dropbox/Projects/tksitalia/tksitalia.github.io/vendor/bundle/ruby/2.3.0/gems/json-2.2.0/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190504-97190-13ygk15.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sebi/Dropbox/Projects/tksitalia/tksitalia.github.io/vendor/bundle/ruby/2.3.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sebi/Dropbox/Projects/tksitalia/tksitalia.github.io/vendor/bundle/ruby/2.3.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sebi/Dropbox/Projects/tksitalia/tksitalia.github.io/vendor/bundle/ruby/2.3.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
