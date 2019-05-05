@@ -17,7 +17,7 @@ search: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /posts/page:num/
+paginate_path: /blog/page:num/
 timezone: Europe/Rome
 
 # Conversion
@@ -119,6 +119,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # blog
+  - scope:
+      path: ""
+      type: blog
     values:
       layout: single
       author_profile: true

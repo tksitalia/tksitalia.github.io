@@ -2,7 +2,7 @@ main:
   - title: "Chi siamo"
     url: /info/
   - title: "Blog"
-    url: /posts/
+    url: /blog/
   - title: "Galleria"
     url: /tags/
   - title: "Contatti"

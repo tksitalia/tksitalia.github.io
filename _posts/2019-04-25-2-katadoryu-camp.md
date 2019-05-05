@@ -1,6 +1,7 @@
 ---
 title: "2° Katadoryu Camp a Pescasseroli (AQ)"
 date: 2019-04-25T15:34:30-04:00
+classes: wide
 categories:
   - blog
 tags:
