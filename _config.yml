@@ -93,6 +93,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-139599918-1"
+
 author:
   name   : "Traditional Karate School Italia"
   avatar : "/assets/images/logo-tksitalia.png"
