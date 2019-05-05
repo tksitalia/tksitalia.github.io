@@ -8,7 +8,7 @@ header:
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/"
   #caption: "Traditional Karate School Italia"
-excerpt: "L'associazione di Karate nata dalla visione del<br /> D.T. Fabrizio Costantini."
+excerpt: "L'associazione di Karate nata dalla visione del<br /> Maestro Costantini Fabrizio C.Nera 6° Dan."
 feature_row:
   - image_path: /assets/images/2019-06-29-pescasseroli.jpg
     alt: "katadoryu camp"
@@ -30,6 +30,9 @@ feature_row:
 # intro:
 #   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
+**Notizie**
+* Saremo presenti con il nostro D.T.M° Fabrizio CostantiniPrimo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI
+* La T.K.S.Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3 classificata.
 
 {% include feature_row id="intro" type="center" %}
 
