@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://tksitalia.github.io
 logo: "/assets/images/logo-tksitalia.png"
 twitter_username: username
-github_username: username
+github_username: tksitalia
 minimal_mistakes_skin: air
 search: true
 og_image: /assets/images/logo-tksitalia.png
