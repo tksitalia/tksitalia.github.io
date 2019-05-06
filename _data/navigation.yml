@@ -4,6 +4,6 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Galleria"
-    url: /tags/
+    url: /galleria/
   - title: "Contatti"
     url: /about/
