@@ -79,10 +79,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-analytics:
-  provider: "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id: "UA-139599918-1"
+# analytics:
+#   provider: "google" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id: "UA-139599918-1"
 
 author:
   name   : *name
