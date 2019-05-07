@@ -8,6 +8,6 @@ tags:
   - stage
 ---
 
-Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI"
-
-![alt](/images/stage-esterni/2019-05-24-bushi.jpg){: .full}
+![alt](/images/stage-esterni/2019-05-24-bushi.jpg){: .align-right}
+Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI
+{: .text-justify}

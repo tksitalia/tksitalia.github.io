@@ -55,9 +55,9 @@ feature_row4:
     url: "/blog/1-wkaeda-rimini"
 ---
 
-### News
+<!-- ### News
 * [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata](https://www.tksitalia.it/blog/1-wkaeda-rimini){: .btn}
-* [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (RM) presso A.S.D. BUSHI](https://www.tksitalia.it/blog/iv-seminario-bushi){: .btn}
+* [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (RM) presso A.S.D. BUSHI](https://www.tksitalia.it/blog/iv-seminario-bushi){: .btn} -->
 
 
 {% include feature_row id="intro" type="center" %}
