@@ -9,8 +9,11 @@ header:
   # cta_url: "/"
   #caption: "Traditional Karate School Italia"
 excerpt: "L'associazione di Karate nata dalla visione del<br /> Maestro Costantini Fabrizio C.Nera 6° Dan."
+
 # intro:
+#   - excerpt: 'Classifica Società la T. K. S. Italia 3° classificata. &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+
 feature_row:
   - image_path: /images/stage/20190414.jpg
     alt: "Stage 14 aprile 2019"
@@ -48,9 +51,15 @@ feature_row4:
   - image_path: /images/stage-esterni/2019-04-26-rimini-mini.jpg
     alt: "Stage WKAEDA Rimini"
     title: "1° Campionato Nazionale WKAEDA"
-    excerpt: 'La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. Classifica Società la T. K. S. Italia 3° classificata.'
+    excerpt: "La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. T. K. S. Italia 3° classificata, riportando a casa ben 8 Medaglie d'ORO, 7 Medaglie di ARGENTO e 6 Medaglie di BRONZO"
     url: "/blog/1-wkaeda-rimini"
 ---
+
+### News
+* [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata](https://www.tksitalia.it/blog/1-wkaeda-rimini){: .btn}
+* [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (RM) presso A.S.D. BUSHI](https://www.tksitalia.it/blog/iv-seminario-bushi){: .btn}
+
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
