@@ -16,7 +16,7 @@ search: true
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: Europe/Rome
 

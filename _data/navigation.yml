@@ -7,5 +7,5 @@ main:
     url: /galleria/
   - title: "Contatti"
     url: /about/
-  - title: "Terms &amp; Privacy Policy"
-    url: /privacy/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /privacy/
