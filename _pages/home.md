@@ -9,8 +9,8 @@ header:
   # cta_url: "/"
   #caption: "Traditional Karate School Italia"
 excerpt: "L'associazione di Karate nata dalla visione del<br /> Maestro Costantini Fabrizio C.Nera 6° Dan."
-intro:
-  - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+# intro:
+#   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 feature_row:
   - image_path: /images/stage/20190414.jpg
     alt: "Stage 14 aprile 2019"
