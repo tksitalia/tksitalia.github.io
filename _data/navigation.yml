@@ -3,9 +3,9 @@ main:
     url: /info/
   - title: "Blog"
     url: /blog/
-  - title: "Galleria"
-    url: /galleria/
-  - title: "Contatti"
-    url: /about/
+  # - title: "Galleria"
+  #   url: /galleria/
+  # - title: "Contatti"
+  #   url: /about/
   # - title: "Terms &amp; Privacy Policy"
   #   url: /privacy/

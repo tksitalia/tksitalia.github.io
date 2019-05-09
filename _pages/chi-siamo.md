@@ -2,10 +2,13 @@
 permalink: /info/
 title: "Traditional Karate School Italia"
 layout: splash
-header:
-  overlay_image: /assets/images/jorge-mallo-1260398-unsplash-2.jpg
+# header:
+#   overlay_image: /assets/images/jorge-mallo-1260398-unsplash-2.jpg
 ---
->
+
+![under-construction](/assets/images/under-construction.jpeg){: .full}
+
+<!-- > -->
   <!-- T.K.S. Italia una nuova realtà, un'associazione di Karate *Libera* ed *Aperta*.
   Ha lo scopo di promuovere e organizzare molteplici attività sportive.
   Organizza corsi, stage e allenamenti di Karate Do tradizionale stilistico ed interstile.
