@@ -34,7 +34,7 @@ feature_row:
     url: "/blog/stage-17-febbraio-2019"
 
 feature_row2:
-  - image_path: /images/20190530-katadoryu/2019-04-26-rimini-mini.jpg
+  - image_path: /images/20190530-katadoryu/2019-06-29-pescasseroli-mini.jpg
     alt: "Katadoryu camp"
     title: "2° Katadoryu Camp <br /> Pescasseroli (AQ)"
     excerpt: 'Saremo presenti dal 30 Maggio al 2 Giugno; ben 4 aree all aperto, 3 aree tatami, più di 100 ore di lezione con ottimi docenti e tanti ragazzi a Pescasseroli (AQ)'
