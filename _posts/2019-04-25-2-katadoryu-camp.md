@@ -10,4 +10,4 @@ tags:
 
 Saremo presenti dal 30 Maggio al 2 Giugno; ben 4 aree all'aperto, 3 aree tatami, più di 100 ore di lezione con ottimi docenti e tanti ragazzi a Pescasseroli (AQ)
 
-![alt](/images/stage-esterni/2019-06-29-pescasseroli.jpg){: .full}
+![alt](/images/20190530-katadoryu/59079042_1040103356195311_6398720772403101696_n.jpg){: .full}
