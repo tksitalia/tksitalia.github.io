@@ -6,10 +6,10 @@ header:
   overlay_image: /assets/images/jorge-mallo-1260398-unsplash-2.jpg
 ---
 >
-  T.K.S. Italia una nuova realtà, un'associazione di Karate *Libera* ed *Aperta*.
+  <!-- T.K.S. Italia una nuova realtà, un'associazione di Karate *Libera* ed *Aperta*.
   Ha lo scopo di promuovere e organizzare molteplici attività sportive.
   Organizza corsi, stage e allenamenti di Karate Do tradizionale stilistico ed interstile.
-  Promuove i rapporti di collaborazione con altre associazioni, anche a livello internazionale, al fine di attuare progetti ed iniziative.
+  Promuove i rapporti di collaborazione con altre associazioni, anche a livello internazionale, al fine di attuare progetti ed iniziative. -->
   <!-- L'associazione è apolitica e non ha scopo di lucro.
   Tuttavia la stessa potrà, comunque esercitare anche attività commerciale.
   L'associazione accetta le norme e le direttive del Comitato internazionale olimpico (Cio) Coni, delle federazioni sportive internazionali,nonchè agli statuti e ai regolamenti della Federazione sportiva nazionale o dell'Ente di promozione sportiva cui l'associazione stessa delibererà d'aderire.
