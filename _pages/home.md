@@ -4,7 +4,7 @@ permalink: /
 title: "Traditional Karate School Italia"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Optimized-leslie-jones-650507-unsplash.jpg
+  overlay_image: /assets/images/leslie-jones-650507-unsplash.jpg
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/"
   #caption: "Traditional Karate School Italia"
