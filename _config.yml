@@ -111,23 +111,17 @@ defaults:
       type: posts
     values:
       layout: single
-      # author_profile: true
-      read_time: true
-      # comments: true
       share: true
       related: true
       sidebar:
         - title: ""
           image: *logo
-        # - title: ""
-        #   image: /assets/images/2000px-Karatedo.svg.png
   # blog
   - scope:
       path: ""
       type: blog
     values:
-      layout: single
-      read_time: true
+      layout: posts
       share: true
       related: true
       sidebar:
