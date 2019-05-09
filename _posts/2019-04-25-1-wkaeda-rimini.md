@@ -18,10 +18,10 @@ Classifica Società: la T. K. S. Italia 3 Classifficata. Ottimo piazzamento cons
 Riportiamo a casa ben 8 Medaglie d'ORO, 7 Medaglie di ARGENTO e 6 Medaglie di BRONZO.
 
 
-{% include figure image_path="/images/stage-esterni/59432364_1039811806224466_512126140823896064_o.jpg" %}
+{% include figure image_path="/images/20190425-wkaeda/58701354_1038077879731192_3415164282164215808_n.jpg" %}
 
 <figure class="half">
-    <a href="/images/stage-esterni/2019-04-26-rimini.jpg"><img src="/images/stage-esterni/2019-04-26-rimini.jpg"></a>
-    <a href="/images/stage-esterni/2019-04-26-rimini-retro.jpg"><img src="/images/stage-esterni/2019-04-26-rimini-retro.jpg"></a>
+    <a href="/images/20190425-wkaeda/56927267_2482041518529270_2644177992804204544_n.jpg"><img src="/images/20190425-wkaeda/56927267_2482041518529270_2644177992804204544_n.jpg"></a>
+    <a href="/images/20190425-wkaeda/53792495_10216782984521246_8003760981610070016_n.jpg"><img src="/images/20190425-wkaeda/53792495_10216782984521246_8003760981610070016_n.jpg"></a>
     <figcaption></figcaption>
 </figure>
