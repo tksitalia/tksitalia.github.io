@@ -8,7 +8,7 @@ header:
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/"
   #caption: "Traditional Karate School Italia"
-excerpt: "L'associazione di Karate nata dalla visione del<br /> Maestro Costantini Fabrizio C. Nera 6° Dan."
+excerpt: "[L'associazione](/chi-siamo/info) di Karate nata dalla visione del<br /> D.T. Maestro Costantini Fabrizio C. Nera 6° Dan."
 
 # intro:
 #   - excerpt: 'Classifica Società la T. K. S. Italia 3° classificata. &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'

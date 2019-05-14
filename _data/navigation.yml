@@ -1,11 +1,19 @@
 main:
   - title: "Chi siamo"
-    url: /info/
+    url: /chi-siamo/info/
   - title: "Blog"
     url: /blog/
+  # - title: "Contatti"
+  #   url: /chi-siamo/contatti/
   # - title: "Galleria"
   #   url: /galleria/
-  # - title: "Contatti"
-  #   url: /about/
   # - title: "Terms &amp; Privacy Policy"
   #   url: /privacy/
+
+chi-siamo:
+  - title: ""
+    # children:
+  - title: "L'associazione"
+    url: /chi-siamo/info/
+  - title: "Organigramma"
+    url: /chi-siamo/organigramma/
