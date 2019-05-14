@@ -288,7 +288,7 @@ it: &DEFAULT_IT
   pagination_next            : "Prossima"
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
-  menu_label                 :
+  menu_label                 : "Apri/Chiudi Menu"
   search_label               :
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"
@@ -1395,7 +1395,7 @@ hi: &DEFAULT_HI
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
+
 # Another locale
 # --------------
 #
