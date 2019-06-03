@@ -151,7 +151,7 @@ defaults:
       comments: false
       classes: wide
       sidebar:
-        - image: /assets/images/logo-tksitalia.png
+        - image: /assets/images/logo-tksitalia-128.png
         - nav: "chi-siamo"
 
 category_archive:
