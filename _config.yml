@@ -6,7 +6,7 @@ minimal_mistakes_skin: air
 url: https://www.tksitalia.it
 title: &title "T.K.S. Italia"
 name: &name "Traditional Karate School Italia"
-logo: &logo "/assets/images/logo-tksitalia-128.png"
+logo: &logo "/assets/images/logo-tksitalia.png"
 title_separator: "-"
 description: >-
   Traditional Karate School Italia
@@ -151,7 +151,7 @@ defaults:
       comments: false
       classes: wide
       sidebar:
-        - image: /assets/images/logo-tksitalia-128.png
+        - image: *logo
         - nav: "chi-siamo"
 
 category_archive:
