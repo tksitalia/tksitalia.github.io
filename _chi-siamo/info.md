@@ -30,3 +30,6 @@ Per tutti i ragazzi che volessero far parte degli agonisti azzurrabili T.K.S. It
 Per la procedura di iscrizione in seno alla T.K.S. Italia è sufficiente registrarsi in modo singolo e personale senza che sia obbligatoriamente iscritta la propria associazione la quale avrà il proprio Ente CONI di riferimento e il proprio organigramma.
 
 Per tutti coloro che volessero iscriversi nella *Traditional Karate School Italia* verranno automaticamente iscritti anche in ambito Federale.
+
+![logoTKS](/assets/images/logo-tksitalia-128.png){: .align-center}
+![logoCKI](/assets/images/logo-cki-128.png){: .align-left}![logoEIK](/assets/images/logo-eik-128.png){: .align-right}
