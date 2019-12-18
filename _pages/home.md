@@ -27,11 +27,12 @@ feature_row:
     excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
     url: "/blog/stage-24-novembre-2019"
 
-  - image_path: /images/20190217/20190217.jpg
-    alt: "Stage 17 febbraio 2019"
-    title: "17 febbraio 2019 - T.K.S. Italia, Allenamento di Karate Do tradizionale"
-    excerpt: "Allenamento di Karate Do tradizionale.<br />Aperto a tutti anche di altre Associazioni Sportive o Enti CONI<br />..."
-    url: "/blog/stage-17-febbraio-2019"
+  - image_path: /images/20191110-tolfa/20191110.jpg
+    alt: "AKS Coppa Italia 2019"
+    title: "AKS Coppa Italia 2019"
+    excerpt: "La T.K.S. Italia Ospite con i suoi Associati.<br />
+    In Campo la Scuola Karate Wado Ryu Maestri Fabrizio Costantini e Gianni Costantini, Scuola karate Wado Ryu M. Francesconi Luca e Martini Doriano, Funakoshi Karate Sora con il suo D.T. Bruni Luigi ed il M. Rocca Pietro."
+    url: "/blog/gara-11-novembre-2019"
 
 feature_row2:
   - image_path: /images/20190530-katadoryu/2019-06-29-pescasseroli-mini.jpg
