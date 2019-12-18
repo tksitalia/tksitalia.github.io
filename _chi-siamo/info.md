@@ -22,7 +22,7 @@ Maestro Fondatore e **Direttore Tecnico della T.K.S. Italia è Fabrizio Costanti
 L'associazione è apolitica e non ha scopo di lucro, tuttavia la stessa potrà comunque esercitare anche attività commerciale.
 L'associazione accetta le norme e le direttive del Comitato internazionale olimpico (Cio) CONI, delle federazioni sportive internazionali, nonchè agli statuti e ai regolamenti della Federazione sportiva nazionale o dell'Ente di promozione sportiva cui l'associazione stessa delibererà d'aderire.
 
-La **T.K.S. Italia** per quest'anno sportivo 2019/2020 attraverso il suo ente di riferimento denominato **EIK** - Ente Italia Karate entra a far parte della **C.K.I.** - Confederazione Karate Do Italia con circuito Internazionale **WUKF** - World Union Of Karate Do Federations è in **WUK** - World United Karate.
+La **T.K.S. Italia** per quest'anno sportivo 2019/2020 attraverso il suo ente di riferimento denominato **EIK** - Ente Italia Karate entra a far parte della **C.K.I.** - Confederazione Karate Do Italia con circuito Internazionale **WUKF** - World Union Of Karate Do Federations e in **WUK** - World United Karate.
 
 Tutte le molteplici attività didattiche inerenti il Karate Do che si svolgono sono aperte a **tutti** i praticanti di karate, a patto che ci sia il permesso dell'Organizzazione di riferimento, del Sensei o del proprio Presidente.
 Per tutti i ragazzi che volessero far parte degli agonisti azzurrabili T.K.S. Italia, riguardo il KATA o il Kumite Tradizionale e quindi svolgere attività mirate di formazione agonistica, è obbligatorio essere iscritti in T.K.S. Italia, quindi in regola anche per partecipare in attività federative **WUKF**.
