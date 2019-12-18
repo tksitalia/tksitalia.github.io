@@ -21,11 +21,11 @@ feature_row:
     excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
     url: "/blog/stage-15-dicembre-2019"
 
-  - image_path: /images/20190317/20190317.jpg
-    alt: "Stage 17 marzo 2019"
-    title: "17 marzo 2019 - T.K.S. Italia, Allenamento atleti azzurabili"
-    excerpt: "Formazione tecnica e strategia del Kumite tradizionale.<br />Aperto a tutti anche di altre Organizzazioni Sportive."
-    url: "/blog/stage-17-marzo-2019"
+  - image_path: /images/20191124/20191124.jpg
+    alt: "Stage 24 novembre 2019"
+    title: "24 novembre 2019 - T.K.S. Italia, Stage di Karate Do"
+    excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
+    url: "/blog/stage-24-novembre-2019"
 
   - image_path: /images/20190217/20190217.jpg
     alt: "Stage 17 febbraio 2019"
