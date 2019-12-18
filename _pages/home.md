@@ -15,11 +15,11 @@ excerpt: "[L'associazione](/chi-siamo/info) di Karate nata dalla visione del<br 
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
-  - image_path: /images/20190414/20190414.jpg
-    alt: "Stage 14 aprile 2019"
-    title: "14 aprile 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (RM)"
-    excerpt: "Corso formazione e aggiornamento arbitri regolamento WUKF con il **M° Collela Nunzio** responsabile arbitri WKAEDA.<br />Allenamento di Karate Do aperto a tutti."
-    url: "/blog/stage-14-aprile-2019"
+  - image_path: /images/20191215/20191215.jpg
+    alt: "Stage 15 dicembre 2019"
+    title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (RM)"
+    excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
+    url: "/blog/stage-15-dicembre-2019"
 
   - image_path: /images/20190317/20190317.jpg
     alt: "Stage 17 marzo 2019"
