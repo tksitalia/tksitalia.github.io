@@ -52,7 +52,7 @@ feature_row:
   - image_path: /images/20190922/20190922.jpg
     alt: "Stage 22 settembre 2019"
     title: "22 settembre 2019 - Allenamento di Karate Do Tradizionale"
-    excerpt: "Allenameto aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
+    excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
     url: /blog/stage-22-settembre-2019
 
 # feature_row2:
