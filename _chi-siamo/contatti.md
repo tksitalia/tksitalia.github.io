@@ -10,7 +10,8 @@ sidebar:
   - image: /assets/images/logo1-tksitalia.jpg
 ---
 
-# Contatti
+<!-- # Contatti
 {: style="text-align: center;"}
----
-![logo1](/assets/images/logo1-tksitalia.jpg){: .align-left}
+--- -->
+<br />
+![logo1](/assets/images/logo1-tksitalia.jpg){: .align-center}
