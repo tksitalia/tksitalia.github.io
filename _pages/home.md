@@ -18,6 +18,17 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/20200126/20200126.jpg
+    alt: "Stage 26 gennaio 2020"
+    title: "26 gennaio 2020 - T.K.S. Italia, Formazione tecnica Wado Ryu"
+    excerpt: "
+    <br />
+    Stage di Formazione tecnica Wado Ryu<br />
+    per Tecnici e cinture da Blu a Nere.<br />
+    A Valmontone (RM).
+    <br />"
+    url: "/blog/stage-26-gennaio-2020"
+
   - image_path: /images/20200119/20200119.jpg
     alt: "Stage 19 gennaio 2020"
     title: "19 gennaio 2020 - T.K.S. Italia, Allenamento atleti azzurabili e corso di aggiornamento arbitri"
@@ -49,11 +60,11 @@ feature_row:
     excerpt: "Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili.<br /><br/>"
     url: "/blog/stage-27-ottobre-2019"
 
-  - image_path: /images/20190922/20190922.jpg
-    alt: "Stage 22 settembre 2019"
-    title: "22 settembre 2019 - Allenamento di Karate Do Tradizionale"
-    excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
-    url: /blog/stage-22-settembre-2019
+  # - image_path: /images/20190922/20190922.jpg
+  #   alt: "Stage 22 settembre 2019"
+  #   title: "22 settembre 2019 - Allenamento di Karate Do Tradizionale"
+  #   excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
+  #   url: /blog/stage-22-settembre-2019
 
 # feature_row2:
 #   - image_path: /images/20190530-katadoryu/2019-06-29-pescasseroli-mini.jpg
