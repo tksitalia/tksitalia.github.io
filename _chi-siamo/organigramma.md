@@ -7,4 +7,4 @@ title: ""
 # T.K.S. Italia - Organigramma
 {: style="text-align: center;"}
 
-![organigrama](/assets/images/organigramma.jpg){: .align-center}
+![organigrama](/assets/images/Organigramma-TKS-2020.jpg){: .align-center}
