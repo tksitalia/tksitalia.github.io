@@ -32,7 +32,7 @@ feature_row:
   - image_path: /images/20200119/20200119.jpg
     alt: "Stage 19 gennaio 2020"
     title: "19 gennaio 2020 - T.K.S. Italia, Allenamento atleti azzurabili e corso di aggiornamento arbitri"
-    excerpt: "**Giordano Gabriele**, un bravo Karateka, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
+    excerpt: "**Giordano Gabriele**, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
     url: "/blog/stage-19-gennaio-2020"
 
   - image_path: /images/20191215/20191215.jpg
