@@ -12,7 +12,7 @@ excerpt: "[L'associazione](/chi-siamo/info) di Karate nata dalla visione del<br 
 
 intro:
   - excerpt: '
-Si invitano tutti gli atleti di riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
+Si invitano tutti gli atleti a riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
 Volontà, determinazione, curiosità e cuore fuso con il proprio spirito e quello di gruppo sono i fattori essenziali per affrontare tale percorso che sicuramente incrementerà di molto la vostra personale Maturitá Marziale, preziosa per il proseguo nel Do del Karate Tradizionale che durerá per tutta la vita.<br />
 Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter}'
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
