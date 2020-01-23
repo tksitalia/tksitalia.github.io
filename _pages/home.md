@@ -25,7 +25,7 @@ feature_row:
     <br />
     Stage di Formazione tecnica Wado Ryu<br />
     per Tecnici e cinture da Blu a Nere.<br />
-    A Valmontone (RM).
+    A Valmontone (Roma).
     <br />"
     url: "/blog/stage-26-gennaio-2020"
 
@@ -37,7 +37,7 @@ feature_row:
 
   - image_path: /images/20191215/20191215.jpg
     alt: "Stage 15 dicembre 2019"
-    title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (RM)"
+    title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (Roma)"
     excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
     url: "/blog/stage-15-dicembre-2019"
 
@@ -90,7 +90,7 @@ feature_row:
 
 <!-- ### News
 * [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata]({{ site.url }}{{ site.baseurl }}/blog/1-wkaeda-rimini){: .btn}
-* [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (RM) presso A.S.D. BUSHI]({{ site.url }}{{ site.baseurl }}/blog/iv-seminario-bushi){: .btn} -->
+* [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (Roma) presso A.S.D. BUSHI]({{ site.url }}{{ site.baseurl }}/blog/iv-seminario-bushi){: .btn} -->
 
 {% include feature_row id="intro" type="center" %}
 
