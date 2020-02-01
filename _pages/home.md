@@ -18,6 +18,21 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/20200216/16-02-2020.jpg
+    alt: "16 Febbraio 2020"
+    title: "16 Febbraio 2020 - Campionato Interregionale targato UKD Italia e TKA Italia"
+    excerpt: "
+    La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca."
+    url: "/blog/16-febbraio-2020"
+
+  - image_path: /images/20200202/02-02-2020.jpg
+    alt: "2 Febbraio 2020"
+    title: "<br />02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
+    excerpt: "
+    <br />
+    La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
+    url: "/blog/02-febbraio-2020"
+
   - image_path: /images/20200126/20200126.jpg
     alt: "Stage 26 gennaio 2020"
     title: "26 gennaio 2020 - T.K.S. Italia, Formazione tecnica Wado Ryu"
@@ -47,18 +62,18 @@ feature_row:
     excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
     url: "/blog/stage-24-novembre-2019"
 
-  - image_path: /images/20191110-tolfa/20191110.jpg
-    alt: "AKS Coppa Italia 2019"
-    title: "AKS Coppa Italia 2019"
-    excerpt: "La T.K.S. Italia Ospite con i suoi Associati.<br />
-    In Campo la Scuola Karate Wado Ryu Maestri Fabrizio Costantini e Gianni Costantini, Scuola karate Wado Ryu M. Francesconi Luca e Martini Doriano, Funakoshi Karate Sora con il suo D.T. Bruni Luigi ed il M. Rocca Pietro."
-    url: "/blog/gara-11-novembre-2019"
+  # - image_path: /images/20191110-tolfa/20191110.jpg
+  #   alt: "AKS Coppa Italia 2019"
+  #   title: "AKS Coppa Italia 2019"
+  #   excerpt: "La T.K.S. Italia Ospite con i suoi Associati.<br />
+  #   In Campo la Scuola Karate Wado Ryu Maestri Fabrizio Costantini e Gianni Costantini, Scuola karate Wado Ryu M. Francesconi Luca e Martini Doriano, Funakoshi Karate Sora con il suo D.T. Bruni Luigi ed il M. Rocca Pietro."
+  #   url: "/blog/gara-11-novembre-2019"
 
-  - image_path: /images/20191027/20191027.jpg
-    alt: "Stage 27 ottobre 2019"
-    title: "27 ottobre 2019 - Formazione Tecnica Wado Ryu"
-    excerpt: "Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili.<br /><br/>"
-    url: "/blog/stage-27-ottobre-2019"
+  # - image_path: /images/20191027/20191027.jpg
+  #   alt: "Stage 27 ottobre 2019"
+  #   title: "27 ottobre 2019 - Formazione Tecnica Wado Ryu"
+  #   excerpt: "Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili.<br /><br/>"
+  #   url: "/blog/stage-27-ottobre-2019"
 
   # - image_path: /images/20190922/20190922.jpg
   #   alt: "Stage 22 settembre 2019"
