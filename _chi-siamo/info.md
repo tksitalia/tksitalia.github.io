@@ -33,3 +33,7 @@ Per tutti coloro che volessero iscriversi nella *Traditional Karate School Itali
 
 ![logoTKS](/assets/images/logo-tksitalia-128.png){: .align-center}
 ![logoCKI](/assets/images/logo-cki-128.png){: .align-left}![logoEIK](/assets/images/logo-eik-128.png){: .align-right}
+<br/>
+![logoACSI](/assets/images/logo-wukf.png){: .align-center}
+<br/>
+![logoWUKF](/assets/images/logo-acsi.png){: .align-left}![logoWKU](/assets/images/logo-wku.png){: .align-right}
