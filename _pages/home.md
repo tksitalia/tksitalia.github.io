@@ -18,6 +18,12 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/20200223/20200223.jpeg
+    alt: "23 Febbraio 2020"
+    title: "23 Febbraio 2020 - Allenamento Azzurabili Kata e Kumite e Corso aggiornamento Arbitri."
+    excerpt: "<br />Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili."
+    url: "/blog/stage-23-febbraio-2020"
+
   - image_path: /images/20200216/16-02-2020.jpg
     alt: "16 Febbraio 2020"
     title: "16 Febbraio 2020 - Campionato Interregionale targato UKD Italia e TKA Italia"
@@ -56,11 +62,11 @@ feature_row:
     excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
     url: "/blog/stage-15-dicembre-2019"
 
-  - image_path: /images/20191124/20191124.jpg
-    alt: "Stage 24 novembre 2019"
-    title: "24 novembre 2019 - T.K.S. Italia, Stage di Karate Do"
-    excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
-    url: "/blog/stage-24-novembre-2019"
+  # - image_path: /images/20191124/20191124.jpg
+  #   alt: "Stage 24 novembre 2019"
+  #   title: "24 novembre 2019 - T.K.S. Italia, Stage di Karate Do"
+  #   excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
+  #   url: "/blog/stage-24-novembre-2019"
 
   # - image_path: /images/20191110-tolfa/20191110.jpg
   #   alt: "AKS Coppa Italia 2019"
