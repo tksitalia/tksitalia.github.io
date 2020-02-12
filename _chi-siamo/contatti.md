@@ -7,11 +7,11 @@ share: false
 comments: false
 classes: wide
 sidebar:
-  - image: /assets/images/logo1-tksitalia.jpg
+  - image: /assets/images/contatti.png
 ---
 
 <!-- # Contatti
 {: style="text-align: center;"}
 --- -->
 <br />
-![logo1](/assets/images/logo1-tksitalia.jpg){: .align-center}
+![logo1](/assets/images/contatti.png){: .align-center}
