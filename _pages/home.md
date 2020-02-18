@@ -18,6 +18,12 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/20200307/20200307.jpeg
+    alt: "7-8 Marzo 2020"
+    title: "7-8 Marzo 2020 - Qualificazione SUD Italia al KarateCCU 2020"
+    excerpt: "<br />La T.K.S. Italia sarà presente - qualificazione sud italia al campionato confederale unificato 2020"
+    url: "/blog/7-marzo-2020"
+
   - image_path: /images/20200223/20200223.jpeg
     alt: "23 Febbraio 2020"
     title: "23 Febbraio 2020 - Allenamento Azzurabili Kata e Kumite e Corso aggiornamento Arbitri."
@@ -31,13 +37,13 @@ feature_row:
     La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca."
     url: "/blog/16-febbraio-2020"
 
-  - image_path: /images/20200202/02-02-2020.jpg
-    alt: "2 Febbraio 2020"
-    title: "<br />02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
-    excerpt: "
-    <br />
-    La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
-    url: "/blog/02-febbraio-2020"
+  # - image_path: /images/20200202/02-02-2020.jpg
+  #   alt: "2 Febbraio 2020"
+  #   title: "<br />02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
+  #   excerpt: "
+  #   <br />
+  #   La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
+  #   url: "/blog/02-febbraio-2020"
 
   - image_path: /images/20200126/20200126.jpg
     alt: "Stage 26 gennaio 2020"
