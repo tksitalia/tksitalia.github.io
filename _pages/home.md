@@ -33,17 +33,16 @@ feature_row:
   - image_path: /images/20200216/16-02-2020.jpg
     alt: "16 Febbraio 2020"
     title: "16 Febbraio 2020 - Campionato Interregionale targato UKD Italia e TKA Italia"
-    excerpt: "
-    La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca."
+    excerpt: "La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca"
     url: "/blog/16-febbraio-2020"
 
-  # - image_path: /images/20200202/02-02-2020.jpg
-  #   alt: "2 Febbraio 2020"
-  #   title: "<br />02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
-  #   excerpt: "
-  #   <br />
-  #   La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
-  #   url: "/blog/02-febbraio-2020"
+  - image_path: /images/20200202/02-02-2020.jpg
+    alt: "2 Febbraio 2020"
+    title: "02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
+    excerpt: "
+    <br />
+    La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
+    url: "/blog/02-febbraio-2020"
 
   - image_path: /images/20200126/20200126.jpg
     alt: "Stage 26 gennaio 2020"
@@ -62,11 +61,11 @@ feature_row:
     excerpt: "**Giordano Gabriele**, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
     url: "/blog/stage-19-gennaio-2020"
 
-  - image_path: /images/20191215/20191215.jpg
-    alt: "Stage 15 dicembre 2019"
-    title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (Roma)"
-    excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
-    url: "/blog/stage-15-dicembre-2019"
+  # - image_path: /images/20191215/20191215.jpg
+  #   alt: "Stage 15 dicembre 2019"
+  #   title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (Roma)"
+  #   excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Costantini Fabrizio, Bruni Luigi e Vittorini Eugenio."
+  #   url: "/blog/stage-15-dicembre-2019"
 
   # - image_path: /images/20191124/20191124.jpg
   #   alt: "Stage 24 novembre 2019"
