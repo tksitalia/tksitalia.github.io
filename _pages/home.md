@@ -21,7 +21,7 @@ feature_row:
   - image_path: /images/20200307/20200307.jpeg
     alt: "7-8 Marzo 2020"
     title: "7-8 Marzo 2020 - Qualificazione SUD Italia al KarateCCU 2020"
-    excerpt: "<br />La T.K.S. Italia sarà presente - qualificazione sud italia al campionato confederale unificato 2020"
+    excerpt: "<br />ANNULLAMENTO GARA DI QUALIFICAZIONE SUD ITALIA, IN PROGRAMMA AD AVELLINO IL 07-08/03/2020."
     url: "/blog/7-marzo-2020"
 
   - image_path: /images/20200223/20200223.jpeg
