@@ -8,3 +8,4 @@ title: ""
 {: style="text-align: center;"}
 
 ![organigrama](/assets/images/Organigramma-TKS-2020.jpg){: .align-center}
+![collaboratori](/assets/images/Team_Collaboratori_2018-2020.jpg){: .align-center}
