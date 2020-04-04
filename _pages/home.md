@@ -18,8 +18,21 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/basic_training_parade/basic_training_parade.png
+    alt: "BASIC TRAINING PARADE"
+    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    excerpt: "#allenamentoinsieme
+              <br />
+              <br />BASIC TRAINING  Parades - Gedan Barai - Jodan Uke - Soto Uke - Uchi Uke with Gyakuzuki attack.
+              <br />With COSTANTINI Fabrizio Sensei.
+              <br />Always train with heart and curiosity.
+              <br />COSTANTINI Fabrizio
+              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+    url: "/blog/basic_training_parade"
+
+
   - image_path: /images/basic_training_zuki/basic_training_zuki.png
-    alt: "BASIC TRAINING ZUKI.(http://www.google.it)"
+    alt: "BASIC TRAINING ZUKI"
     title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
     excerpt: "#allenamentoinsieme
               <br />
@@ -27,7 +40,10 @@ feature_row:
               <br />With COSTANTINI Fabrizio Sensei.
               <br />Always train with heart and curiosity.
               <br />COSTANTINI Fabrizio
-              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ
+              <br />
+              <br />
+              <br />"
     url: "/blog/basic_training_zuki"
 
   - image_path: /images/20200307/20200307.jpeg
