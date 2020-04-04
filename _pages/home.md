@@ -18,6 +18,18 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
+    alt: "BASIC TRAINING PARADE"
+    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    excerpt: "#allenamentoinsieme
+              <br />
+              <br />Kata Pinan nidan.
+              <br />With COSTANTINI Fabrizio Sensei.
+              <br />Always train with heart and curiosity.
+              <br />COSTANTINI Fabrizio
+              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+    url: "/blog/kata_pinan_nidan"
+
   - image_path: /images/basic_training_parade/basic_training_parade.png
     alt: "BASIC TRAINING PARADE"
     title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
@@ -30,7 +42,6 @@ feature_row:
               <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
     url: "/blog/basic_training_parade"
 
-
   - image_path: /images/basic_training_zuki/basic_training_zuki.png
     alt: "BASIC TRAINING ZUKI"
     title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
@@ -40,10 +51,7 @@ feature_row:
               <br />With COSTANTINI Fabrizio Sensei.
               <br />Always train with heart and curiosity.
               <br />COSTANTINI Fabrizio
-              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ
-              <br />
-              <br />
-              <br />"
+              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
     url: "/blog/basic_training_zuki"
 
   - image_path: /images/20200307/20200307.jpeg
