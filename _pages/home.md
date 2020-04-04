@@ -14,10 +14,22 @@ intro:
   - excerpt: '
 Si invitano tutti gli atleti a riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
 Volontà, determinazione, curiosità e cuore fuso con il proprio spirito e quello di gruppo sono i fattori essenziali per affrontare tale percorso che sicuramente incrementerà di molto la vostra personale Maturitá Marziale, preziosa per il proseguo nel Do del Karate Tradizionale che durerá per tutta la vita.<br />
-Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter}'
+Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter} <br />**#allenamentoinsieme** [Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug)'
 #   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 
 feature_row:
+  - image_path: /images/basic_training_zuki/basic_training_zuki.png
+    alt: "BASIC TRAINING ZUKI.(http://www.google.it)"
+    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    excerpt: "#allenamentoinsieme
+              <br />
+              <br />BASIC TRAINING  ZUKI.
+              <br />With COSTANTINI Fabrizio Sensei.
+              <br />Always train with heart and curiosity.
+              <br />COSTANTINI Fabrizio
+              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+    url: "/blog/basic_training_zuki"
+
   - image_path: /images/20200307/20200307.jpeg
     alt: "7-8 Marzo 2020"
     title: "7-8 Marzo 2020 - Qualificazione SUD Italia al KarateCCU 2020"
