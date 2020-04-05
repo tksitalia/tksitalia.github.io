@@ -14,8 +14,8 @@ intro:
   - excerpt: '
 Si invitano tutti gli atleti a riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
 Volontà, determinazione, curiosità e cuore fuso con il proprio spirito e quello di gruppo sono i fattori essenziali per affrontare tale percorso che sicuramente incrementerà di molto la vostra personale Maturitá Marziale, preziosa per il proseguo nel Do del Karate Tradizionale che durerá per tutta la vita.<br />
-Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter} <br />**#allenamentoinsieme** **#sempreinsieme** [Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug)'
-#   - excerpt: 'Non perderti le ultime novità &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter}'
+  - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
   - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
@@ -154,10 +154,12 @@ feature_row:
 * [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata]({{ site.url }}{{ site.baseurl }}/blog/1-wkaeda-rimini){: .btn}
 * [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (Roma) presso A.S.D. BUSHI]({{ site.url }}{{ site.baseurl }}/blog/iv-seminario-bushi){: .btn} -->
 
+
 {% include feature_row id="intro" type="center" %}
+{% include video id="aGuHP4c6pTE" provider="youtube" %}
+<br/>
 
 {% include feature_row %}
-
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
