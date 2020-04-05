@@ -1,5 +1,5 @@
 ---
-title: "T.K.S. ITALIA sector 和道流空手道 SCUOLA KARATE WADO Ryu."
+title: "T.K.S. Italia sector 和道流空手道 Scuola Karate Wado Ryu<br/> Basic Training Zuki."
 date: 2020-03-17
 classes: wide
 categories:
@@ -8,12 +8,10 @@ tags:
   - allenamenti
 ---
 
-T.K.S. ITALIA sector 和道流空手道  SCUOLA KARATE WADO Ryu.
-BASIC TRAINING  ZUKI.
-With COSTANTINI Fabrizio Sensei.
-Always train with heart and curiosity.
-COSTANTINI Fabrizio
-武道の挨拶            コンスタンティーニ      ファブリツィオ
+## Basic Training Zuki
+With Costantini Fabrizio Sensei
+Always train with heart and curiosity
+武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 
 {% include video id="Onu39UOnZXI" provider="youtube" %}
 {% include video id="7kpSL-eYEeU" provider="youtube" %}

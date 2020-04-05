@@ -20,38 +20,41 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
 feature_row:
   - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
     alt: "BASIC TRAINING PARADE"
-    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    title: "T.K.S. Italia <br/>Kata Pinan Nidan"
     excerpt: "#allenamentoinsieme #sempreinsieme
               <br />
-              <br />Kata Pinan nidan.
-              <br />With COSTANTINI Fabrizio Sensei.
-              <br />Always train with heart and curiosity.
-              <br />COSTANTINI Fabrizio
-              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+              <br />T.K.S. Italia sector 和道流空手道
+              <br />Scuola Karate Wado Ryu
+              <br />Kata Pinan Nidan ピナン二段
+              <br />With Costantini Fabrizio Sensei
+              <br />Always train with heart and curiosity
+              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
     url: "/blog/kata_pinan_nidan"
 
   - image_path: /images/basic_training_parade/basic_training_parade.png
     alt: "BASIC TRAINING PARADE"
-    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    title: "T.K.S. Italia <br/>Basic Training Parades"
     excerpt: "#allenamentoinsieme #sempreinsieme
               <br />
-              <br />BASIC TRAINING  Parades - Gedan Barai - Jodan Uke - Soto Uke - Uchi Uke with Gyakuzuki attack.
-              <br />With COSTANTINI Fabrizio Sensei.
-              <br />Always train with heart and curiosity.
-              <br />COSTANTINI Fabrizio
-              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+              <br />T.K.S. Italia sector 和道流空手道
+              <br />Scuola Karate Wado Ryu
+              <br />Basic Training Parades - Gedan Barai - Jodan Uke - Soto Uke - Uchi Uke with Gyakuzuki attack.
+              <br />With Costantini Fabrizio Sensei
+              <br />Always train with heart and curiosity
+              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
     url: "/blog/basic_training_parade"
 
   - image_path: /images/basic_training_zuki/basic_training_zuki.png
     alt: "BASIC TRAINING ZUKI"
-    title: "T.K.S. ITALIA - SCUOLA KARATE WADO Ryu. "
+    title: "T.K.S. Italia <br/>Basic Training Zuki"
     excerpt: "#allenamentoinsieme #sempreinsieme
               <br />
-              <br />BASIC TRAINING  ZUKI.
-              <br />With COSTANTINI Fabrizio Sensei.
-              <br />Always train with heart and curiosity.
-              <br />COSTANTINI Fabrizio
-              <br />武道の挨拶            コンスタンティーニ      ファブリツィオ"
+              <br />T.K.S. Italia sector 和道流空手道
+              <br />Scuola Karate Wado Ryu
+              <br />Basic Training Zuki
+              <br />With Costantini Fabrizio Sensei
+              <br />Always train with heart and curiosity
+              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
     url: "/blog/basic_training_zuki"
 
   - image_path: /images/20200307/20200307.jpeg
@@ -156,8 +159,8 @@ feature_row:
 
 
 {% include feature_row id="intro" type="center" %}
+T.K.S. Italia - sector 和道流空手道 Scuola Karate Wado Ryu. **Always train with heart and curiosity**. Fabrizio Costantini Sensei. <br/> 武道の挨拶&nbsp;&nbsp;ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
-T.K.S.ITALIA - sector 和道流空手道 ScuolaKarateWadoRyu. Always train with heart and curiosity. Fabrizio COSTANTINI Sensei.    武道の挨拶    ファブリツィオ コンスタンティーニ
 ---
 
 {% include feature_row %}
