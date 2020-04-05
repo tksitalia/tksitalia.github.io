@@ -14,7 +14,7 @@ intro:
   - excerpt: '
 Si invitano tutti gli atleti a riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
 Volontà, determinazione, curiosità e cuore fuso con il proprio spirito e quello di gruppo sono i fattori essenziali per affrontare tale percorso che sicuramente incrementerà di molto la vostra personale Maturitá Marziale, preziosa per il proseguo nel Do del Karate Tradizionale che durerá per tutta la vita.<br />
-Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](https://www.tksitalia.it/chi-siamo/contatti/){: .btn .btn--twitter}'
+Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](/chi-siamo/contatti/){: .btn .btn--twitter}'
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
@@ -138,19 +138,19 @@ feature_row:
 #     excerpt: 'Saremo presenti dal 30 Maggio al 2 Giugno; ben 4 aree all aperto, 3 aree tatami, più di 100 ore di lezione con ottimi docenti e tanti ragazzi a Pescasseroli (AQ)'
 #     url: "/blog/2-katadoryu-camp"
 
-# feature_row3:
-#   - image_path: /images/20190526-bushi/2019-05-24-bushi-mini.jpg
-#     alt: "Invito al BUDO"
-#     title: "Invito al BUDO <br /> IV Seminario di Primavera"
-#     excerpt: 'Saremo presenti con il nostro D.T. M° Fabrizio Costantini Primo appuntamento i giorni 25 e 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Roma presso A.S.D. BUSHI'
-#     url: "/blog/iv-seminario-bushi"
-
-# feature_row4:
-#   - image_path: /images/20190425-wkaeda/54212926_10216782984921256_6236519335309869056_n.jpg
-#     alt: "Stage WKAEDA Rimini"
-#     title: "1° Campionato Nazionale WKAEDA"
-#     excerpt: "La T.K.S. Italia al primo Campionato Italiano Federale di Karate siglato WKAEDA il 25.04.2019. T. K. S. Italia 3° classificata, riportando a casa ben 8 Medaglie d'ORO, 7 Medaglie di ARGENTO e 6 Medaglie di BRONZO"
-#     url: "/blog/1-wkaeda-rimini"
+# feature_row2:
+#   - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
+#     alt: "BASIC TRAINING PARADE"
+#     title: "T.K.S. Italia <br/>Kata Pinan Nidan"
+#     excerpt: "#allenamentoinsieme #sempreinsieme
+#               <br />
+#               <br />T.K.S. Italia sector 和道流空手道
+#               <br />Scuola Karate Wado Ryu
+#               <br />Kata Pinan Nidan ピナン二段
+#               <br />With Costantini Fabrizio Sensei
+#               <br />Always train with heart and curiosity
+#               <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
+#     url: "/blog/kata_pinan_nidan"
 ---
 
 <!-- ### News
@@ -162,14 +162,11 @@ feature_row:
 T.K.S. Italia - sector 和道流空手道 Scuola Karate Wado Ryu. **Always train with heart and curiosity**. Fabrizio Costantini Sensei. <br/> 武道の挨拶&nbsp;&nbsp;ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
 ---
+<!-- {% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="right" %} -->
 
 {% include feature_row %}
-
-<!-- {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="left" %} -->
 
 {% include video id="O7bxx7qZuAc" provider="youtube" %}
 ---
