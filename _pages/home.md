@@ -157,7 +157,8 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
-<br/>
+T.K.S.ITALIA - sector 和道流空手道 ScuolaKarateWadoRyu. Always train with heart and curiosity. Fabrizio COSTANTINI Sensei.    武道の挨拶    ファブリツィオ コンスタンティーニ
+---
 
 {% include feature_row %}
 
