@@ -1,5 +1,5 @@
 ---
-title: "T.K.S. Italia sector 和道流空手道 Scuola Karate Wado Ryu<br/> Basic Training Zuki."
+title: "T.K.S. Italia sector 和道流空手道 Scuola Karate Wado Ryu<br/> Basic Training Zuki"
 date: 2020-03-17
 classes: wide
 categories:
