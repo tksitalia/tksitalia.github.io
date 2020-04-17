@@ -18,6 +18,12 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200419/20200419.jpeg
+    alt: "19 Aprile 2020"
+    title: "19 Aprile 2020 - T.K.S. Italia - 1º Stage Virtuale in collegamento Skype"
+    excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/stage-19-aprile-2020"
+
   - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
     alt: "BASIC TRAINING PARADE"
     title: "T.K.S. Italia <br/>Kata Pinan Nidan"
@@ -94,11 +100,11 @@ feature_row:
     <br />"
     url: "/blog/stage-26-gennaio-2020"
 
-  - image_path: /images/20200119/20200119.jpg
-    alt: "Stage 19 gennaio 2020"
-    title: "19 gennaio 2020 - T.K.S. Italia, Allenamento atleti azzurabili e corso di aggiornamento arbitri"
-    excerpt: "**Giordano Gabriele**, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
-    url: "/blog/stage-19-gennaio-2020"
+  # - image_path: /images/20200119/20200119.jpg
+  #   alt: "Stage 19 gennaio 2020"
+  #   title: "19 gennaio 2020 - T.K.S. Italia, Allenamento atleti azzurabili e corso di aggiornamento arbitri"
+  #   excerpt: "**Giordano Gabriele**, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
+  #   url: "/blog/stage-19-gennaio-2020"
 
   # - image_path: /images/20191215/20191215.jpg
   #   alt: "Stage 15 dicembre 2019"
