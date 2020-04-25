@@ -180,7 +180,7 @@ feature_row:
 
 
 {% include feature_row id="intro" type="center" %}
-T.K.S. Italia - sector 和道流空手道 Scuola Karate Wado Ryu. **Always train with heart and curiosity**. Fabrizio Costantini Sensei. <br/> 武道の挨拶&nbsp;&nbsp;ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
+T.K.S. Italia - **Always train with heart and curiosity** - Fabrizio Costantini Sensei - ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
 ---
 <!-- {% include feature_row id="feature_row2" type="right" %}

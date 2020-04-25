@@ -18,3 +18,4 @@ Always train with heart and curiosity
 {% include video id="8ZYUVcFfhGQ" provider="youtube" %}
 {% include video id="4-LsSXW35xU" provider="youtube" %}
 {% include video id="a6WMHcUgMZU" provider="youtube" %}
+{% include video id="LCWZlWnsyuI" provider="youtube" %}

@@ -14,4 +14,4 @@ Fabrizio Costantini Kata Pinan Shodan Karate Wado Ryu.
 
 
 {% include video id="kc6qrBWA7y0" provider="youtube" %}
-{% include video id="LCWZlWnsyuI" provider="youtube" %}
+{% include video id="2B5SLuXfoUE" provider="youtube" %}
