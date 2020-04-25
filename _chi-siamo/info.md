@@ -10,7 +10,7 @@ T.K.S. Italia, una nuova realtà, un'associazione di Karate Do **Libera** ed **A
 {: style="text-align: justify;"}
 <!-- {: style="text-align: center;"} -->
 
-<!-- Fondata nell'anno 2018 dal Presidente e Direttore Tecnico il Maestro Costantini Fabrizio il vicepredidente Dott. Tirone Pietro e la Dirigente Sig.ra Veglianti Elisa.
+<!-- Fondata nell'anno 2018 dal Presidente e Direttore Tecnico il Maestro Fabrizio Costantini il vicepredidente Dott. Tirone Pietro e la Dirigente Sig.ra Veglianti Elisa.
 Ha la sede legale nella Regione Lazio a Valmontone, città metropolitana di Roma Capitale. -->
 
 Maestro Fondatore e **Direttore Tecnico della T.K.S. Italia è Fabrizio Costantini** Sensei C.N. 6° Dan di Karate Wado Ryu.

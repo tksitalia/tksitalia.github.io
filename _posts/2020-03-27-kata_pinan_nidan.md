@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Kata Pinan Nidan
-With Costantini Fabrizio Sensei
+With Fabrizio Costantini Sensei
 Always train with heart and curiosity
 武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 
