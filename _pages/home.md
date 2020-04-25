@@ -18,6 +18,12 @@ Con stima Costantini Fabrizio 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200426/20200426.jpeg
+    alt: "26 Aprile 2020"
+    title: "26 Aprile 2020 - T.K.S. Italia - 2º Stage Virtuale in collegamento Skype"
+    excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/stage-26-aprile-2020"
+
   - image_path: /images/20200419/20200419.jpeg
     alt: "19 Aprile 2020"
     title: "19 Aprile 2020 - T.K.S. Italia - 1º Stage Virtuale in collegamento Skype"
