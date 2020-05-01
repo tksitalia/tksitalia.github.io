@@ -109,7 +109,6 @@ feature_row:
   #   title: "22 settembre 2019 - Allenamento di Karate Do Tradizionale"
   #   excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
   #   url: /blog/stage-22-settembre-2019
-
 feature_row2:
   - image_path: /images/kata_pinan_shodan/kata_pinan_shodan.png
     alt: "Kata Pinan Shodan"
@@ -145,14 +144,12 @@ feature_row2:
     url: "/blog/basic_training_zuki"
 
 ---
-
 <!-- ### News
 * [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata]({{ site.url }}{{ site.baseurl }}/blog/1-wkaeda-rimini){: .btn}
 * [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (Roma) presso A.S.D. BUSHI]({{ site.url }}{{ site.baseurl }}/blog/iv-seminario-bushi){: .btn} -->
-
-
 {% include feature_row id="intro" type="center" %}
 T.K.S. Italia - **Always train with heart and curiosity** - Fabrizio Costantini Sensei - ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
+{: style="text-align: center;"}
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
 ---
 {% include feature_row %}
@@ -161,9 +158,7 @@ T.K.S. Italia - **Always train with heart and curiosity** - Fabrizio Costantini 
 *Always train with heart and curiosity*
 {: style="text-align: center;"}
 
-{% include feature_row id="feature_row2" type="right" %}
-{% include feature_row id="feature_row3" type="left" %}
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include video id="O7bxx7qZuAc" provider="youtube" %}
 ---
