@@ -18,6 +18,12 @@ Con stima Fabrizio Costantini 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200503/20200503.jpeg
+    alt: "3 Maggio 2020"
+    title: "3 Maggio 2020 - T.K.S. Italia - Allenamento azzurrabili kumite e corso aggiornamento arbitri via Skype."
+    excerpt: "Dalle ore 11:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/stage-3-maggio-2020"
+
   - image_path: /images/20200426/20200426.jpeg
     alt: "26 Aprile 2020"
     title: "26 Aprile 2020 - T.K.S. Italia - 2º Stage Virtuale in collegamento Skype"
@@ -29,54 +35,6 @@ feature_row:
     title: "19 Aprile 2020 - T.K.S. Italia - 1º Stage Virtuale in collegamento Skype"
     excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
     url: "/blog/stage-19-aprile-2020"
-
-  - image_path: /images/kata_pinan_shodan/kata_pinan_shodan.png
-    alt: "BASIC TRAINING PARADE"
-    title: "T.K.S. Italia <br/>Kata Pinan Shodan"
-    excerpt: "#allenamentoinsieme #sempreinsieme
-              <br />
-              <br />Fabrizio Costantini Kata Pinan Shodan Karate Wado Ryu.
-              <br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
-    url: "/blog/kata_pinan_shodan"
-
-  - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
-    alt: "BASIC TRAINING PARADE"
-    title: "T.K.S. Italia <br/>Kata Pinan Nidan"
-    excerpt: "#allenamentoinsieme #sempreinsieme
-              <br />
-              <br />T.K.S. Italia sector 和道流空手道
-              <br />Scuola Karate Wado Ryu
-              <br />Kata Pinan Nidan ピナン二段
-              <br />With Fabrizio Costantini Sensei
-              <br />Always train with heart and curiosity
-              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
-    url: "/blog/kata_pinan_nidan"
-
-  - image_path: /images/basic_training_parade/basic_training_parade.png
-    alt: "BASIC TRAINING PARADE"
-    title: "T.K.S. Italia <br/>Basic Training Parades"
-    excerpt: "#allenamentoinsieme #sempreinsieme
-              <br />
-              <br />T.K.S. Italia sector 和道流空手道
-              <br />Scuola Karate Wado Ryu
-              <br />Basic Training Parades - Gedan Barai - Jodan Uke - Soto Uke - Uchi Uke with Gyakuzuki attack.
-              <br />With Fabrizio Costantini Sensei
-              <br />Always train with heart and curiosity
-              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
-    url: "/blog/basic_training_parade"
-
-  - image_path: /images/basic_training_zuki/basic_training_zuki.png
-    alt: "BASIC TRAINING ZUKI"
-    title: "T.K.S. Italia <br/>Basic Training Zuki"
-    excerpt: "#allenamentoinsieme #sempreinsieme
-              <br />
-              <br />T.K.S. Italia sector 和道流空手道
-              <br />Scuola Karate Wado Ryu
-              <br />Basic Training Zuki
-              <br />With Fabrizio Costantini Sensei
-              <br />Always train with heart and curiosity
-              <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
-    url: "/blog/basic_training_zuki"
 
   - image_path: /images/20200307/20200307.jpeg
     alt: "7-8 Marzo 2020"
@@ -152,26 +110,40 @@ feature_row:
   #   excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
   #   url: /blog/stage-22-settembre-2019
 
-# feature_row2:
-#   - image_path: /images/20190530-katadoryu/2019-06-29-pescasseroli-mini.jpg
-#     alt: "Katadoryu camp"
-#     title: "2° Katadoryu Camp <br /> Pescasseroli (AQ)"
-#     excerpt: 'Saremo presenti dal 30 Maggio al 2 Giugno; ben 4 aree all aperto, 3 aree tatami, più di 100 ore di lezione con ottimi docenti e tanti ragazzi a Pescasseroli (AQ)'
-#     url: "/blog/2-katadoryu-camp"
+feature_row2:
+  - image_path: /images/kata_pinan_shodan/kata_pinan_shodan.png
+    alt: "Kata Pinan Shodan"
+    title: "T.K.S. Italia <br/>Kata Pinan Shodan"
+    excerpt: "#allenamentoinsieme #sempreinsieme
+              <br />Fabrizio Costantini - Kata Pinan Shodan Karate Wado Ryu.
+              <br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
+    url: "/blog/kata_pinan_shodan"
 
-# feature_row2:
-#   - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
-#     alt: "BASIC TRAINING PARADE"
-#     title: "T.K.S. Italia <br/>Kata Pinan Nidan"
-#     excerpt: "#allenamentoinsieme #sempreinsieme
-#               <br />
-#               <br />T.K.S. Italia sector 和道流空手道
-#               <br />Scuola Karate Wado Ryu
-#               <br />Kata Pinan Nidan ピナン二段
-#               <br />With Fabrizio Costantini Sensei
-#               <br />Always train with heart and curiosity
-#               <br />武道の挨拶<br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
-#     url: "/blog/kata_pinan_nidan"
+  - image_path: /images/kata_pinan_nidan/kata_pinan_nidan.png
+    alt: "Kata Pinan Nidan"
+    title: "T.K.S. Italia <br/>Kata Pinan Nidan"
+    excerpt: "#allenamentoinsieme #sempreinsieme
+              <br />Fabrizio Costantini - Kata Pinan Nidan Karate Wado Ryu.
+              <br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
+    url: "/blog/kata_pinan_nidan"
+
+  - image_path: /images/basic_training_parade/basic_training_parade.png
+    alt: "Basic Training Parades"
+    title: "T.K.S. Italia <br/>Basic Training Parades"
+    excerpt: "#allenamentoinsieme #sempreinsieme
+              <br />Fabrizio Costantini - Basic Training Parades Karate Wado Ryu.
+              <br />Gedan Barai - Jodan Uke - Soto Uke - Uchi Uke with Gyakuzuki attack.
+              <br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
+    url: "/blog/basic_training_parade"
+
+  - image_path: /images/basic_training_zuki/basic_training_zuki.png
+    alt: "Basic Training Zuki"
+    title: "T.K.S. Italia <br/>Basic Training Zuki"
+    excerpt: "#allenamentoinsieme #sempreinsieme
+              <br />Fabrizio Costantini - Basic Training Zuki Karate Wado Ryu.
+              <br />ファブリツィオ&nbsp;&nbsp;コンスタンティーニ"
+    url: "/blog/basic_training_zuki"
+
 ---
 
 <!-- ### News
@@ -183,11 +155,15 @@ feature_row:
 T.K.S. Italia - **Always train with heart and curiosity** - Fabrizio Costantini Sensei - ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
 {% include video id="aGuHP4c6pTE" provider="youtube" %}
 ---
-<!-- {% include feature_row id="feature_row2" type="right" %}
-{% include feature_row id="feature_row3" type="left" %}
-{% include feature_row id="feature_row4" type="right" %} -->
-
 {% include feature_row %}
+
+**#allenamentoinsieme** **#sempreinsieme**
+*Always train with heart and curiosity*
+{: style="text-align: center;"}
+
+{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 {% include video id="O7bxx7qZuAc" provider="youtube" %}
 ---
