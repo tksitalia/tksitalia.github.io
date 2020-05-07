@@ -18,6 +18,12 @@ Con stima Fabrizio Costantini 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200509/20200509.jpeg
+    alt: "9 Maggio 2020"
+    title: "9 Maggio 2020 - Scuola Karate Wado Ryu Costantini - 2º Allenamento Online"
+    excerpt: "Dalle ore 15:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/allenamento-9-maggio-2020"
+
   - image_path: /images/20200503/20200503.jpeg
     alt: "3 Maggio 2020"
     title: "3 Maggio 2020 - T.K.S. Italia - Allenamento azzurrabili kumite e corso aggiornamento arbitri via Skype."
@@ -30,17 +36,23 @@ feature_row:
     excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
     url: "/blog/stage-26-aprile-2020"
 
+  - image_path: /images/20200509/20200509.jpeg
+    alt: "23 Aprile 2020"
+    title: "23 Aprile 2020 - Scuola Karate Wado Ryu Costantini - 1º Allenamento Online"
+    excerpt: "Dalle ore 17:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/allenamento-23-aprile-2020"
+
   - image_path: /images/20200419/20200419.jpeg
     alt: "19 Aprile 2020"
     title: "19 Aprile 2020 - T.K.S. Italia - 1º Stage Virtuale in collegamento Skype"
     excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
     url: "/blog/stage-19-aprile-2020"
 
-  - image_path: /images/20200307/20200307.jpeg
-    alt: "7-8 Marzo 2020"
-    title: "7-8 Marzo 2020 - Qualificazione SUD Italia al KarateCCU 2020"
-    excerpt: "<br />ANNULLAMENTO GARA DI QUALIFICAZIONE SUD ITALIA, IN PROGRAMMA AD AVELLINO IL 07-08/03/2020."
-    url: "/blog/7-marzo-2020"
+  # - image_path: /images/20200307/20200307.jpeg
+  #   alt: "7-8 Marzo 2020"
+  #   title: "7-8 Marzo 2020 - Qualificazione SUD Italia al KarateCCU 2020"
+  #   excerpt: "<br />ANNULLAMENTO GARA DI QUALIFICAZIONE SUD ITALIA, IN PROGRAMMA AD AVELLINO IL 07-08/03/2020."
+  #   url: "/blog/7-marzo-2020"
 
   - image_path: /images/20200223/20200223.jpeg
     alt: "23 Febbraio 2020"
@@ -48,67 +60,17 @@ feature_row:
     excerpt: "<br />Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili."
     url: "/blog/stage-23-febbraio-2020"
 
-  - image_path: /images/20200216/16-02-2020.jpg
-    alt: "16 Febbraio 2020"
-    title: "16 Febbraio 2020 - Campionato Interregionale targato UKD Italia e TKA Italia"
-    excerpt: "La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca"
-    url: "/blog/16-febbraio-2020"
+  # - image_path: /images/20200216/16-02-2020.jpg
+  #   alt: "16 Febbraio 2020"
+  #   title: "16 Febbraio 2020 - Campionato Interregionale targato UKD Italia e TKA Italia"
+  #   excerpt: "La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca"
+  #   url: "/blog/16-febbraio-2020"
 
-  # - image_path: /images/20200202/02-02-2020.jpg
-  #   alt: "2 Febbraio 2020"
-  #   title: "02 Febbraio 2020 - T.K.S. Italia, ospite al “7 BELTS CUP” "
-  #   excerpt: "
-  #   <br />
-  #   La T.K.S. Italia presente come ospite al “7 BELTS CUP” di Ladispoli Roma presso l’Istituto Comprensivo Corrado Melone"
-  #   url: "/blog/02-febbraio-2020"
 
-  # - image_path: /images/20200126/20200126.jpg
-  #   alt: "Stage 26 gennaio 2020"
-  #   title: "26 gennaio 2020 - T.K.S. Italia, Formazione tecnica Wado Ryu"
-  #   excerpt: "
-  #   <br />
-  #   Stage di Formazione tecnica Wado Ryu<br />
-  #   per Tecnici e cinture da Blu a Nere.<br />
-  #   A Valmontone (Roma).
-  #   <br />"
-  #   url: "/blog/stage-26-gennaio-2020"
 
-  # - image_path: /images/20200119/20200119.jpg
-  #   alt: "Stage 19 gennaio 2020"
-  #   title: "19 gennaio 2020 - T.K.S. Italia, Allenamento atleti azzurabili e corso di aggiornamento arbitri"
-  #   excerpt: "**Giordano Gabriele**, supera a pieno l’esame da **Cintura Nera 1^ Dan** della Commissione Tecnica T.K.S. Italia"
-  #   url: "/blog/stage-19-gennaio-2020"
 
-  # - image_path: /images/20191215/20191215.jpg
-  #   alt: "Stage 15 dicembre 2019"
-  #   title: "15 dicembre 2019 - Stage T.K.S. Italia e corso arbitri a Valmontone (Roma)"
-  #   excerpt: "Stage di formazione agonistica e corso aggiornamento arbitri.<br /> Con i Docenti T.K.S.Italia Fabrizio Costantini, Bruni Luigi e Vittorini Eugenio."
-  #   url: "/blog/stage-15-dicembre-2019"
 
-  # - image_path: /images/20191124/20191124.jpg
-  #   alt: "Stage 24 novembre 2019"
-  #   title: "24 novembre 2019 - T.K.S. Italia, Stage di Karate Do"
-  #   excerpt: "<br />Stage di Karate Do indetto dalla T.K.S Italia.<br /> <br />Con i nostri Docenti  Fabrizio Costantini, Bruni Luigi e Vittorini Eugenio."
-  #   url: "/blog/stage-24-novembre-2019"
 
-  # - image_path: /images/20191110-tolfa/20191110.jpg
-  #   alt: "AKS Coppa Italia 2019"
-  #   title: "AKS Coppa Italia 2019"
-  #   excerpt: "La T.K.S. Italia Ospite con i suoi Associati.<br />
-  #   In Campo la Scuola Karate Wado Ryu Maestri Fabrizio Costantini e Gianni Costantini, Scuola karate Wado Ryu M. Francesconi Luca e Martini Doriano, Funakoshi Karate Sora con il suo D.T. Bruni Luigi ed il M. Rocca Pietro."
-  #   url: "/blog/gara-11-novembre-2019"
-
-  # - image_path: /images/20191027/20191027.jpg
-  #   alt: "Stage 27 ottobre 2019"
-  #   title: "27 ottobre 2019 - Formazione Tecnica Wado Ryu"
-  #   excerpt: "Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili.<br /><br/>"
-  #   url: "/blog/stage-27-ottobre-2019"
-
-  # - image_path: /images/20190922/20190922.jpg
-  #   alt: "Stage 22 settembre 2019"
-  #   title: "22 settembre 2019 - Allenamento di Karate Do Tradizionale"
-  #   excerpt: "Allenamento aperto a tutti, anche di altre associazioni sportive.<br />Lezione di Goshindo.<br />"
-  #   url: /blog/stage-22-settembre-2019
 feature_row2:
   - image_path: /images/kata_pinan_shodan/kata_pinan_shodan.png
     alt: "Kata Pinan Shodan"
