@@ -18,6 +18,12 @@ Con stima Fabrizio Costantini 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200517/20200517.jpeg
+    alt: "17 Maggio 2020"
+    title: "17 Maggio 2020 - T.K.S. Italia - Stage Stilistico Shotokan"
+    excerpt: "Dalle ore 11:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/allenamento-17-maggio-2020"
+
   - image_path: /images/20200509/20200509.jpeg
     alt: "9 Maggio 2020"
     title: "9 Maggio 2020 - Scuola Karate Wado Ryu Costantini - 2º Allenamento Online"
@@ -54,11 +60,11 @@ feature_row:
   #   excerpt: "<br />ANNULLAMENTO GARA DI QUALIFICAZIONE SUD ITALIA, IN PROGRAMMA AD AVELLINO IL 07-08/03/2020."
   #   url: "/blog/7-marzo-2020"
 
-  - image_path: /images/20200223/20200223.jpeg
-    alt: "23 Febbraio 2020"
-    title: "23 Febbraio 2020 - Allenamento Azzurabili Kata e Kumite e Corso aggiornamento Arbitri."
-    excerpt: "<br />Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili."
-    url: "/blog/stage-23-febbraio-2020"
+  # - image_path: /images/20200223/20200223.jpeg
+  #   alt: "23 Febbraio 2020"
+  #   title: "23 Febbraio 2020 - Allenamento Azzurabili Kata e Kumite e Corso aggiornamento Arbitri."
+  #   excerpt: "<br />Possibilità di partecipare anche ai non iscritti T.K.S. Italia e a tutti gli iscritti non Azzurabili."
+  #   url: "/blog/stage-23-febbraio-2020"
 
   # - image_path: /images/20200216/16-02-2020.jpg
   #   alt: "16 Febbraio 2020"
