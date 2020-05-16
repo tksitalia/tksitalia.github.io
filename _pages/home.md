@@ -22,7 +22,7 @@ feature_row:
     alt: "17 Maggio 2020"
     title: "17 Maggio 2020 - T.K.S. Italia - Stage Stilistico Shotokan"
     excerpt: "Dalle ore 11:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
-    url: "/blog/allenamento-17-maggio-2020"
+    url: "/blog/stage-17-maggio-2020"
 
   - image_path: /images/20200509/20200509.jpeg
     alt: "9 Maggio 2020"
