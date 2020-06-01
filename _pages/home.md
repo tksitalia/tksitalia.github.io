@@ -15,7 +15,7 @@ intro:
 Si invitano tutti gli atleti a riflettere sulla possibilità di entrare a far parte del TEAM Azzurrabili T.K.S. Italia.<br />
 Volontà, determinazione, curiosità e cuore fuso con il proprio spirito e quello di gruppo sono i fattori essenziali per affrontare tale percorso che sicuramente incrementerà di molto la vostra personale Maturitá Marziale, preziosa per il proseguo nel Do del Karate Tradizionale che durerá per tutta la vita.<br />
 Con stima Fabrizio Costantini 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i> @contatti](/chi-siamo/contatti/){: .btn .btn--twitter}'
-  - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
+  # - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
   - image_path: /images/20200517/20200517.jpeg
@@ -72,11 +72,6 @@ feature_row:
   #   excerpt: "La T.K.S. Italia presente con lo Staff Arbitrale T.K.S. Italia, il M°. Costantini Gianni ed il M°. Francesconi Luca"
   #   url: "/blog/16-febbraio-2020"
 
-
-
-
-
-
 feature_row2:
   - image_path: /images/kata_pinan_shodan/kata_pinan_shodan.png
     alt: "Kata Pinan Shodan"
@@ -116,17 +111,12 @@ feature_row2:
 * [1° Campionato Nazionale WKAEDA: Classifica Società la T. K. S. Italia 3° classificata]({{ site.url }}{{ site.baseurl }}/blog/1-wkaeda-rimini){: .btn}
 * [Saremo presenti il 26 Maggio 2019 Seminario di Karate Do e Wado Ryu a Morlupo (Roma) presso A.S.D. BUSHI]({{ site.url }}{{ site.baseurl }}/blog/iv-seminario-bushi){: .btn} -->
 {% include feature_row id="intro" type="center" %}
-T.K.S. Italia - **Always train with heart and curiosity** - Fabrizio Costantini Sensei - ファブリツィオ&nbsp;&nbsp;コンスタンティーニ
-{: style="text-align: center;"}
-{% include video id="aGuHP4c6pTE" provider="youtube" %}
----
+
 {% include feature_row %}
 
 **#allenamentoinsieme** **#sempreinsieme**
 *Always train with heart and curiosity*
 {: style="text-align: center;"}
-
-{% include feature_row id="feature_row2" type="left" %}
 
 {% include video id="O7bxx7qZuAc" provider="youtube" %}
 ---
