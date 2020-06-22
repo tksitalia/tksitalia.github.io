@@ -18,6 +18,12 @@ Con stima Fabrizio Costantini 🥋👊🥋 &nbsp; [<i class="fa fa-twitter"></i>
   # - excerpt: '**#allenamentoinsieme** **#sempreinsieme**  &nbsp; [<i class="fab fa-fw fa-youtube"></i> Seguiteci su Youtube](https://www.youtube.com/channel/UCElWKEjQUlFXGCnBfUmndug){: btn--youtube}'
 
 feature_row:
+  - image_path: /images/20200621/20200621.jpeg
+    alt: "21 Giugno 2020"
+    title: "21 Giugno 2020 - T.K.S. Italia - 5º Stage Virtuale in collegamento Skype"
+    excerpt: "<br />Dalle ore 10:00 in collegamento Skype sul profilo FabrizioCostantiniSensei"
+    url: "/blog/stage-21-giugno-2020"
+
   - image_path: /images/20200517/20200517.jpeg
     alt: "17 Maggio 2020"
     title: "17 Maggio 2020 - T.K.S. Italia - Stage Stilistico Shotokan"
